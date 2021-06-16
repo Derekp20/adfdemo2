@@ -1,0 +1,9 @@
+{
+	"name": "awadfdjp",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f7a48d29-32e0-4aa4-8722-a41c743cb18d",
+		"tenantId": "88b3fcf2-235e-4ee0-81d2-f6701d7154dc"
+	}
+}
